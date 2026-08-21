@@ -1,57 +1,11 @@
----
-sticker: emoji//1f49c
-tags:
----
->[!info|normal|] This will look like a regular callout instead of an infobox.
 
->[!info] # Krista Lenz
->![[Krista_Photobash_Realistic Portrait.png|170x170 | center]] 
-># Meta Information
->###### Date Created
->> Somewhere around the late ber months of 2024
-> ###### Creators
->> Semper Creans
->###### Stories Involved In 
->> Heavy Is The Crown
->###### Universes 
->>Imperium Giganteum
-># In-Universe Information
->###### Born
->> March 1 695
->> Viernon Village, Eldian Empire 
-> ###### Died
->>[category:]
->###### Age
->>11 (706: The first time Krista met her father)
->>17 (September 3 712: The birth of her firstborn,  Karl)
->> 26 (January 8 722 :  The birth of her last child, Christoph, and her subsequent death)
->###### Gender
->> Cisgender Female
->###### Pronouns
->> She/Her
->###### Sexuality
->> Heterosexual
->###### Ethnicity
->> List
->###### Family
->> - Lenz Family
->>>-  Gertrude Lenz(grandmother)
->>>-  Otto Lenz (father)
->>> -  Lilemor Lenz (mother)
- >>- Fritz Family 
->>> - Ferdinand Fritz (father)
->>> - Franz Fritz (husband / half brother)
->>> - Karl Fritz (son)
->>> - Christoph Fritz (son)
-> # External Links
-> ###### Music Playlist
->>Link
->###### Pinterest Board
->>Link
+> [!CAUTION]
+> The character profile below has the following content warning tags:
+>>  - Sexual Assault
+>> - Pregnancy from Sexual Assault
+>> - Teenage Pregnancy
 
-
-
-Karl Fritz’s mother and Queen Consort of the Eldian Empire,  Krista and her tragic life became the whole reason a covilozation was built along with the self sacrificing ideology the Reisses and Eldians were forced to bear. 
+Karl Fritz’s mother and Queen Consort of the Eldian Empire,  Krista and her tragic life became the whole reason a covilozation was built along with the self-sacrificing ideology the Reisses and Eldians were forced to bear. 
 
 We might just brush the name “Krista” aside as some placeholder name for Ymir and an alias picked randomly for Historia, but what if there was another meaning to such a name? What if “Krista” was more than just that and a fake fairytale passed onto the Reisses, but a real person and a tragic history waiting to be repeated? What if “Krista”  from the Reiss books  and Historia’s persona were a genuine person, both in reality  and in her kindness? 
 
